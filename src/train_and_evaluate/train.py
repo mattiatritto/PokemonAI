@@ -48,17 +48,6 @@ GRID_PARAMETERS = {
 }
 
 
-"""
-GRID_PARAMETERS = {
-"learning_rate": [1e-4],
-"weight_decay": [1e-6],
-"n_heads_encoder": [1],
-"dim_feedforward_encoder": [512],
-"num_transformers_encoder_layers": [1]
-}
-"""
-
-
 
 
 class CLIPLoss(nn.Module):
