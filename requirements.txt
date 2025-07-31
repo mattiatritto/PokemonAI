@@ -1,0 +1,11 @@
+torch
+transformers
+gradio
+pillow
+pandas
+torchvision
+matplotlib
+scikit-learn
+clip @ git+https://github.com/openai/CLIP.git
+tqdm
+open-clip-torch
